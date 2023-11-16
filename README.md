@@ -1,1 +1,1 @@
-# WordPress Theme - Kwest# kwest
+# WordPress Theme - Kwest
